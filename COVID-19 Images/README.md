@@ -1,1 +1,1 @@
-This folder contains the PosterioAnterio view of the chest X-Ray of Patients affected by COVID-19.
+This folder contains the PosterioAnterio view of the chest X-Ray of Patients affected by COVID-19 obtained from the following [Data Set](https://github.com/ieee8023/covid-chestxray-dataset/blob/master/metadata.csv) collected by [Dr.Joseph Cohen](https://github.com/ieee8023)
